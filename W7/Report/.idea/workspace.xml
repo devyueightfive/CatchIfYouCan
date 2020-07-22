@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4c394626-b4fb-469a-a435-ea7594923e6f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Catch Me If You Can/LogisticRegression.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Catch Me If You Can/LogisticRegression.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Catch Me If You Can/kaggle.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Catch Me If You Can/kaggle.ipynb" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Catch Me If You Can" />
+  </component>
+  <component name="ProjectId" id="1ZE39BX8thyavNyUld2yHNbwHfA" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4c394626-b4fb-469a-a435-ea7594923e6f" name="Default Changelist" comment="" />
+      <created>1584390272183</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584390272183</updated>
+      <workItem from="1584390278262" duration="4000" />
+    </task>
+    <servers />
+  </component>
+</project>
